@@ -1,0 +1,1 @@
+Very simple template for a PWA
